@@ -7,9 +7,8 @@
 4. [Compilation and Execution](#compilation-and-execution)
 5. [System Functionality](#system-functionality)
 6. [Error Handling](#error-handling)
-7. [Data Validation](#data-validation)
-8. [Contributing](#contributing)
-9. [License](#license)
+7. [Contributing](#contributing)
+8. [License](#license)
 
 ## Project Overview
 This project is a Medical Test Record Management System implemented in MIPS assembly language. It efficiently stores, manages, and retrieves medical test data for individual patients. The system operates on a text-based menu allowing users to perform various operations such as adding, searching, updating, and deleting medical test records.
@@ -56,9 +55,6 @@ The system includes error handling for various scenarios:
 - Invalid file name.
 - Searching for non-existent tests or patients.
 - Invalid input data types.
-
-## Data Validation
-The system performs data validation to ensure proper input data types:
 - Patient ID: Must be a 7-digit integer.
 - Test Date: Must follow the format `YYYY-MM`.
 - Test Result: Must be a floating-point number.
