@@ -71,12 +71,6 @@ The system performs data validation to ensure proper input data types:
 5. Open a pull request.
 
 ## License
-This project is licensed under the MIT License. See the LICENSE file for details.
-
----
-
-**Author**: Qossay Rida  
-**Date**: 2024-05-30
 
 Feel free to contribute to this project by adding new features, fixing bugs, or improving the documentation. If you have any questions or need further assistance, please open an issue in the repository.
 
